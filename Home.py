@@ -6,7 +6,7 @@ st.title("Home")
 
 col1, col2 = st.columns(2)
 with col1:
-    col1 = st.image('images/photogmb.png'),
+    col1 = st.image('images/photogmb.png',caption='Rising giants'),
 with col2:
     col2 = st.subheader('Michel Gandeu')
     content1 = """ 
